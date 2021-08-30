@@ -1,0 +1,16 @@
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\helloworld.exe
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\helloworld.deps.json
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\helloworld.runtimeconfig.json
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\helloworld.dll
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\ref\helloworld.dll
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\bin\Debug\net5.0\helloworld.pdb
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.csproj.AssemblyReference.cache
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.dll
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\ref\helloworld.dll
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.pdb
+C:\Users\11036845\source\repos\Solution1\csharp fundamentals\obj\Debug\net5.0\helloworld.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\csharpadvanced.exe
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\csharpadvanced.deps.json
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\csharpadvanced.runtimeconfig.json
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\csharpadvanced.runtimeconfig.dev.json
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\csharpadvanced.dll
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\ref\csharpadvanced.dll
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\bin\Debug\net5.0\csharpadvanced.pdb
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.csproj.AssemblyReference.cache
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.AssemblyInfoInputs.cache
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.AssemblyInfo.cs
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.csproj.CoreCompileInputs.cache
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.dll
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\ref\csharpadvanced.dll
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.pdb
+C:\Users\11036845\source\repos\Solution1\csharpadvanced\obj\Debug\net5.0\csharpadvanced.genruntimeconfig.cache

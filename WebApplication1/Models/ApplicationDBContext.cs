@@ -12,7 +12,7 @@ namespace WebApplication1.Models
         public DbSet<User> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=H5CG125CX1H;Database=LaptopDB;Integrated Security=true;");
+            optionsBuilder.UseSqlServer("Server=H5CG125CW3V;Database=LaptopDB;Integrated Security=true;");
         }
     }
 }

@@ -7,20 +7,26 @@
     ViewData["Title"] = "Index";
 }
 
+<style>
+    body {
+        background-color: wheat
+    }
+</style>
 
 
 <p>
-    @if (Context.Session.GetString("Role") == "admin") {
-    <a asp-action="Create" class="btn btn-outline-success">ADD New</a>
+    @if (Context.Session.GetString("Role") == "admin")
+    {
+        <a asp-action="Create" class="btn btn-outline-success">ADD New</a>
     }
 </p>
-<div class=" py-5 bg-light">
-    <div class="container">
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+<div class=" py-5 bg-light" style="background-color:transparent">
+    <div class="container" style="background-color:transparent">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" style="background-color:transparent">
 
             @foreach (var item in Model)
             {
-                <div class="col-md-4">
+                <div class="col-md-4" style="background-color:transparent">
                     <div class="card shadow-sm">
                         <img src="@item.Image" />
                         <div class="card-body">
@@ -47,7 +53,7 @@
                                     {
                                         <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
                                     }
-                                <a class="btn btn-sm btn-outline-secondary" asp-controller="Cart" asp-action="Buy" asp-route-id="@item.Id">Add to Cart</a>
+                                    <a class="btn btn-sm btn-outline-secondary" asp-controller="Cart" asp-action="Buy" asp-route-id="@item.Id">Add to Cart</a>
                                 </div>
 
                             </div>
